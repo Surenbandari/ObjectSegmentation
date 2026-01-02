@@ -1,0 +1,34 @@
+# Object Segmentation on ARMBench - Requirements
+# Python 3.7+
+
+# Deep Learning Framework
+torch>=1.9.0
+torchvision>=0.10.0
+
+# Computer Vision
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# Scientific Computing
+numpy>=1.19.0
+matplotlib>=3.3.0
+
+# COCO Tools for Evaluation
+pycocotools>=2.0.0
+
+# Progress Bars
+tqdm>=4.62.0
+
+# Data Processing
+pandas>=1.3.0
+openpyxl>=3.0.0
+
+# Additional utilities (optional but useful)
+scipy>=1.7.0
+scikit-image>=0.18.0
+
+# Jupyter Notebook support (for running .ipynb files)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+notebook>=6.4.0
+
